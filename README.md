@@ -7,12 +7,10 @@ RollCall is a mobile web app designed for print shop copy centers. Scan the barc
 
 ## Screenshots
 
-> *(Screenshots coming soon)*
 
 | Welcome Screen | Scanner | Quantity Entry | Sheet Updated |
 |---|---|---|---|
-| ![Welcome](#) | ![Scanner](#) | ![Qty](#) | ![Success](#) |
-
+| <img src="https://github.com/user-attachments/assets/451dcf20-eeb6-4a5e-957e-b63659a1f800" width="200"> | <img src="https://github.com/user-attachments/assets/dc18a4a3-f90f-4204-ab31-dae899a2eac6" width="200"> | <img src="https://github.com/user-attachments/assets/4bc3103f-47bb-4776-8477-a9c5f9f8815e" width="200"> | <img src="https://github.com/user-attachments/assets/80d66e16-9fff-4e54-85a7-478d2f779114" width="200"> |
 ---
 
 ## What It Does
