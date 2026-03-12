@@ -111,7 +111,7 @@ function doPost(e) {
 
 ### Step 3 — Connect RollCall to Your Sheet
 
-1. Open **[RollCall](https://maxien1.github.io/rollcall)** in Safari on your iPhone
+1. Open **[RollCall](https://rollcall-inventory.github.io/RollCall)** in Safari on your iPhone
 2. Tap the URL field and paste your Apps Script Web app URL
 3. Tap **Let's Go**
 4. Allow camera access when prompted
@@ -151,7 +151,7 @@ From that point on, scanning that roll will identify it automatically. You only 
 | 36″ Rolls | Photo Satin | 4 |
 | 36″ Rolls | Matte Polypropylene | 4 |
 | 36″ Rolls | Scrim Vinyl | 4 |
-| 36″ Rolls | Wrapping Paper (30") | 4 |
+| 30″ Rolls | Wrapping Paper | 4 |
 
 To add or remove paper types, edit the `MASTER_PAPERS` array in `index.html`.
 
